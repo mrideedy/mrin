@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing games, programming, developing android apps, etc. 
 - 🌱 I’m currently learning Mastering every skillset I am familiar with.
 - 💞️ I’m looking to collaborate on Game development from Unity.
-- 📫 How to reach me insta:- mri_deedy
+- 📫 How to reach me insta:- _mrigaank_
 
 <!---
 mrideedy/mrideedy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
